@@ -1,0 +1,42 @@
+.sectionGeneral{
+    padding-left: 0;
+    margin-left: 0;
+    padding-left: 2em;
+}
+
+.sectionPais{
+    padding-right: 5rem;
+}
+
+.sectionEncabezado, .sectionTitulo{
+    background-color: rgb(0, 68, 128);
+    height: 3rem;
+    align-items: center;
+    justify-content: flex-start;
+    display: flex;
+    flex: wrap;
+    padding: 1rem;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+.titulo{
+    padding-top:1rem;
+}
+
+h6{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: rgb(128, 128, 128);
+    
+}
+
+h4{
+    font-weight: bolder;
+}
+
+
+img{
+    width: 30%;
+}

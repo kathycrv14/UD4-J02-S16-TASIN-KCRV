@@ -1,0 +1,12 @@
+.sectionGeneral{
+    display: flex-start;
+    flex: wrap;
+}
+
+.sectionAppInicio{
+    padding-right: 0;
+}
+
+.sectionRouterOutlet{
+    padding-left: 0;
+}
